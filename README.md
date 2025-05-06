@@ -32,4 +32,4 @@ Currently coding with **C#**, **Java**, and **Node.js**.
 
 ## ⏱️ WakaTime Stats
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rena2302&theme=github_dark)](https://wakatime.com/@rena2302)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rena2302&theme=github_dark&v=1)](https://wakatime.com/@rena2302)
