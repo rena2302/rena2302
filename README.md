@@ -5,7 +5,7 @@ Currently coding with **C#**, **Java**, and **Node.js**.
 
 ## 🔧 Tech Stack
 
-- 🔹 **Languages**: C#, Java, JavaScript (Node.js)
+- 🔹 **Languages**: C#, Java, TypeScript (Node.js)
 - 🔹 **Backend**: ASP.NET Core, Spring Boot, Express.js
 - 🔹 **Database**: SQL Server, MySQL, MongoDB
 - 🔹 **Tools**: Git, Postman, Docker (basic), Visual Studio, VSCode
