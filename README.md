@@ -19,7 +19,17 @@ Currently coding with **C#**, **Java**, and **Node.js**.
 
 ## 📫 Contact Me
 
-- 🌐 LinkedIn: [https://www.linkedin.com/in/v%C5%A9-l%C3%AA-anh-kh%C3%B4i-0964a5310/]
-- 📧 Email: [khovu2302@gmail.com]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/v%C5%A9-l%C3%AA-anh-kh%C3%B4i-0964a5310/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khovu2302@gmail.com)
 
-Thanks for visiting! Feel free to check out my repositories 👇
+---
+
+## 📊 GitHub Stats
+
+![rena2302's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rena2302&show_icons=true&theme=github_dark&hide=contribs,prs)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rena2302&layout=compact&theme=github_dark)
+
+
+## ⏱️ WakaTime Stats
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rena2302&theme=github_dark)](https://wakatime.com/@rena2302)
