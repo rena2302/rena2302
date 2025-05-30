@@ -26,7 +26,6 @@ Currently coding with **C#**, **Java**, and **Node.js**.
 
 ## 📊 GitHub Stats
 
-![rena2302's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rena2302&show_icons=true&theme=github_dark&hide=contribs,prs)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rena2302&layout=compact&theme=github_dark)
 
 
