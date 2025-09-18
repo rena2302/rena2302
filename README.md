@@ -1,7 +1,7 @@
 # 👋 Hi, I'm rena2302!
 
 I'm a passionate software developer who enjoys building useful and scalable applications.  
-Currently coding with **C#**, and **Node.js**.
+Currently coding with **C#** and **Node.js**.
 
 ## 🔧 Tech Stack
 
