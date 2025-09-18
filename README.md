@@ -1,13 +1,13 @@
 # 👋 Hi, I'm rena2302!
 
 I'm a passionate software developer who enjoys building useful and scalable applications.  
-Currently coding with **C#**, **Java**, and **Node.js**.
+Currently coding with **C#**, and **Node.js**.
 
 ## 🔧 Tech Stack
 
-- 🔹 **Languages**: C#, Java, TypeScript (Node.js)
-- 🔹 **Backend**: ASP.NET Core, Spring Boot, Express.js
-- 🔹 **Database**: SQL Server, MySQL, MongoDB
+- 🔹 **Languages**: C#, TypeScript (Node.js)
+- 🔹 **Backend**: ASP.NET Core, Express.js
+- 🔹 **Database**: SQL Server, Firebase, MongoDB
 - 🔹 **Tools**: Git, Postman, Docker (basic), Visual Studio, VSCode
 - 🔹 **Others**: REST APIs, Entity Framework, LINQ, JWT, Firebase
 
